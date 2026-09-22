@@ -2,6 +2,6 @@
        { "id": "2026-10-a",
          "severity": "info",
          "fa": {"title": "خبر", "body": "متن پیام اینجا", "button": "بیشتر بدون", "url": "https://..."},
-         "en": {"body": "Message text here"}
+         "en": {"title": "title", "body": "body", "button": "button", "url": "https://..."}
        }
    ] }
