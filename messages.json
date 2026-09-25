@@ -1,7 +1,7 @@
    { "messages": [
        { "id": "beta-2",
          "severity": "info",
-         "fa": {"title": "Title e khabar injast!", "body": "Badane khabar injast\nbadane khabar!", "button": "Matne Dokme", "url": "https://...", "image": "https://github.com/actually-aloy/papion/blob/main/papion-banner-text.png?raw=true"},
-         "en": {"title": "title", "body": "body", "button": "button", "url": "https://...", "image": "https://github.com/actually-aloy/papion/blob/main/papion-banner-text.png?raw=true"}
+         "fa": {"title": "Title e khabar injast!", "body": "Badane khabar injast\nbadane khabar!", "button": "Matne Dokme", "url": "https://..."},
+         "en": {"title": "title", "body": "body", "button": "button", "url": "https://..."}
        }
    ] }
