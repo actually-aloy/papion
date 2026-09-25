@@ -1,7 +1,7 @@
    { "messages": [
        { "id": "beta-2",
          "severity": "info",
-         "fa": {"title": "خبر", "body": "متن پیام اینجا", "button": "بیشتر بدون", "url": "https://...", "image": "https://dkstatics-public.digikala.com/digikala-products/98bb110cefc58dcc0ed96eff8914c2bb3d48d318_1786533653.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"},
-         "en": {"title": "title", "body": "body", "button": "button", "url": "https://...", "image": "https://dkstatics-public.digikala.com/digikala-products/98bb110cefc58dcc0ed96eff8914c2bb3d48d318_1786533653.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90"}
+         "fa": {"title": "Title e khabar injast!", "body": "Badane khabar injast\nbadane khabar!", "button": "Matne Dokme", "url": "https://...", "image": "https://github.com/actually-aloy/papion/blob/main/papion-banner-text.png?raw=true"},
+         "en": {"title": "title", "body": "body", "button": "button", "url": "https://...", "image": "https://github.com/actually-aloy/papion/blob/main/papion-banner-text.png?raw=true"}
        }
    ] }
