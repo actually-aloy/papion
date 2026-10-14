@@ -1,0 +1,28 @@
+Papion
+Copyright (c) 2026 Aloy. All rights reserved.
+
+Papion is proprietary software. It is made available free of charge, but it is
+not open source.
+
+You may:
+  - download, install and use the official builds of Papion for your own
+    personal use, free of charge.
+
+You may not, without prior written permission from the copyright holder:
+  - copy, modify, adapt, translate or create derivative works of Papion;
+  - decompile, disassemble or otherwise attempt to extract the source code of
+    Papion, except where applicable law expressly allows it despite this
+    restriction;
+  - redistribute, sell, sublicense, rent or publish Papion or any part of it,
+    whether modified or not.
+
+Papion is provided "as is", without warranty of any kind, express or implied.
+To the fullest extent permitted by law, the copyright holder is not liable for
+any claim, damages or other liability arising from the use of Papion.
+
+Papion connects through servers published by third parties and relies on
+third-party components, including sing-box and Wintun. Those servers and
+components are not part of Papion; they are covered by their own terms and
+licenses, which continue to apply to them.
+
+Contact: https://actually-aloy.github.io/site/papion
