@@ -1,13 +1,17 @@
 { "messages": [
-  { "id": "beta-1",
+  { "id": "1",
     "severity": "info",
     "fa": {
-      "title": "به پاپیون خوش اومدی",
-      "body": "این اولین نسخه‌ی پاپیونه (بتا)، پس ممکنه یه جاهایی هنوز ایراد داشته باشه.\nاگه مشکلی دیدی یا پیشنهادی داشتی، از لینک‌های پایین صفحه‌ی اصلی خبر بده."
+      "title": "خوش اومدی! 💙",
+      "body": "خیلی خوشحالیم که پاپیون رو امتحان می‌کنی!\nاین اولین نسخه‌ی پاپیونه (بتا) و با کلی عشق ساخته شده، ولی ممکنه یه جاهایی هنوز ایراد کوچیکی داشته باشه. اگه چیزی دیدی یا ایده‌ای داشتی، تو سرور دیسکورد بهمون بگو، خیلی کمک می‌کنه.\nو اگه پاپیون به دردت خورد، ممنون می‌شیم به دوستات هم معرفیش کنی. با این کار کمک می‌کنی پاپیون بزرگ‌تر بشه و آدمای بیشتری ازش استفاده کنن.",
+      "button": "ورود به سرور دیسکورد",
+      "url": "https://discord.gg/JqrBUYEM8n"
     },
     "en": {
-      "title": "Welcome to Papion",
-      "body": "This is the first release (beta), so a few rough edges are possible.\nIf you run into a problem or have a suggestion, reach out through the links at the bottom of the home page."
+      "title": "Welcome! 💙",
+      "body": "We're so happy you're trying Papion!\nThis is the very first release (beta), made with a lot of care, but a few rough edges are possible. If you spot something or have an idea, tell us in our Discord server. It really helps.\nAnd if Papion is useful to you, we'd love it if you told your friends about it. That's how it grows and reaches more people.",
+      "button": "Join our Discord",
+      "url": "https://discord.gg/JqrBUYEM8n"
     }
   }
 ] }
